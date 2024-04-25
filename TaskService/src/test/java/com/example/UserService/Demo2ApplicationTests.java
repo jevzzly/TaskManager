@@ -1,13 +1,13 @@
-package org.example.taskservice;
+package com.example.UserService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaskServiceApplicationTests {
+class Demo2ApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
